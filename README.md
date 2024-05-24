@@ -17,4 +17,4 @@ A Pokédex is a digital encyclopedia that catalogs and provides information abou
 Clone this repository ans use npm run start
 
 ## Screenshots
-![Pokedex Screenshot](E:\Screenshot 2024-05-25 025519.png)
+![Pokedex Screenshot](Screenshot 2024-05-25 025519.png)
