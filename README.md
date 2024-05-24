@@ -14,6 +14,6 @@ A Pokédex is a digital encyclopedia that catalogs and provides information abou
 - REACT JS, JAVASCRIPT, CSS
 
 ## Usage
--Clone this repository ans use npm run start
+Clone this repository ans use npm run start
 
 ## Screenshots
